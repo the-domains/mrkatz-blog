@@ -1,0 +1,18 @@
+typography_spectrum: 0.1236678515560925
+color:
+  brandStrength: 0.5787594311404973
+  lightness: 0.9075226380955428
+  saturation: 0.6813414408825338
+  rhythmicContrast: 0.7278264311607927
+  brandColors:
+    - '#FFFFFF'
+    - '#A7000C'
+    - '#67ADCC'
+    - '#CB56B6'
+    - '#606060'
+github: true
+layout_spectrum: 0.14161074673756957
+name: MrKatz Blog
+title: MrKatz Does Stuff
+content: []
+description: ''
