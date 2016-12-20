@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MrKatz Does Stuff]]></title>
+        <description><![CDATA[MrKatz Does Stuff]]></description>
+        <link>https://thegrid.ai/mrkatz-blog/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 20 Dec 2016 16:34:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mrkatz-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 20 Dec 2016 16:34:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[TEST 1]]></title>
+            <description><![CDATA[<article><h1>TEST 1</h1><p>Test post AYYYEEE.</p></article>]]></description>
+            <link>https://thegrid.ai/mrkatz-blog/test-1/index.html</link>
+            <guid isPermaLink="false">c8ee04bb-a988-4adc-841f-57afcaa5a53c</guid>
+            <pubDate>Tue, 20 Dec 2016 16:34:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
